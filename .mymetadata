@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ShaoYing"
+  id="myeclipse.1557668531994"
+  context-root="/ShaoYing"
+  j2ee-spec="6.0"
+  archive="ShaoYing.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
